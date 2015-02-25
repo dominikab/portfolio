@@ -1,0 +1,47 @@
+ul ,ol ,body, head , h1, h2, li {padding 0;
+	margin 0;
+	border: 0;
+}
+ul {
+	list-style: none;
+	list-style-type:none;
+}
+
+
+header { text-align: center;}
+
+
+.projects {
+	margin: 0 auto;
+}
+
+ul {display:inline;}
+
+h2 {
+	text-align: center;}
+
+	.first { 	margin:5px auto;
+		float:left;
+		width: 30%;
+		border: 1px solid black;
+		height : 250px
+
+	}
+	div img { display:block;
+		margin: 5px auto;}
+
+		a { display:inline;
+			text-align: center;
+			margin:0 auto;}
+
+			
+			.second{ 
+				float:right;
+				margin:5px;
+				padding-top: 5px;
+				width: 30%;
+				border: 1px solid black;
+				height : 250px
+
+
+			}
